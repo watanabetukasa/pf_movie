@@ -22,6 +22,8 @@
 ## 設計書
 ER図  
 https://lucid.app/lucidchart/e99a1674-dc12-47f0-8c96-6fb950783b65/edit?invitationId=inv_d7b090d9-4006-4652-a367-5581901041b1
+フレームワーク
+/Users/watanabetsukasa/Desktop/Board 2.png
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1lXdH3kP4Ie8owGh4O9yKi6qkBAswJmkY38rCVU5L4hA/edit?usp=sharing
